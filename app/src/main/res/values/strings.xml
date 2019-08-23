@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Booker</string>
+    <string name="action_settings">Settings</string>
+    <string name="book_item_title_placeholder">Harry Potter</string>
+    <string name="book_item_pd_placeholder">23/08/2019</string>
+    <string name="book_item_sd_placeholder">Unlocking Android: A Developer\'s Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout.</string>
+    <string name="book_item_content_description">Book_cover</string>
+    <string name="book_item_pd_label">Date de publication :</string>
+    <string name="book_item_isbn_label">ISBN :</string>
+    <string name="book_item_isbn_placeholder">1933988673</string>
+    <string name="book_item_ld_placeholder"><![CDATA[When it comes to mobile apps, Android can do almost anything and with this book, so can you! Android runs on mobile devices ranging from smart phones to tablets to countless special-purpose gadgets. It\'s the broadest mobile platform available. Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond &quot;Hello Android,&quot; this fast-paced book puts you in the driver\'s seat as you learn important architectural concepts and implementation strategies. You\'ll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android\'s built-in features by building useful and intriguing examples.]]></string>
+</resources>
